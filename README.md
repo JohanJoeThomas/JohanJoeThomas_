@@ -1,18 +1,28 @@
-<img src="https://global-uploads.webflow.com/62b397ed0ff18cefd722ad0c/62e81ca0304e5174b6fa0d78_coding_for_business.jpg" width=1280px height=150px />
+<img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" width=1300px height=150px />
 <h1 align="center">Hey 👋, I'm Johan</h1>
 <h3 align="center">Just started my programming journey.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif”>
+<img align="right" alt="Coding" width="400" src="”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanjoethomas&label=Profile%20views&color=0e75b6&style=flat" alt="johanjoethomas" /> </p>
-
+                                                                                                                                                 <!-- Bio -->
+<table align="center">
+  <tr><th align="left" colspan="3">BIO</th></tr>
+  <tr><td>🌱 I’m currently learning front end engineer</td> <td>🔱 looking forward into improving my skills </td> ]<td> : ⚡ Fun fact I speak four languages English,Hindi,Tamil and Malayalam.</td>
+  </tr>
+  <tr><td> <img src="https://github.com/CattronC/CattronC/assets/99983445/4fdacce4-f45d-4afc-b81b-a63d823d3cba" alt=":space_invader:" width="20" height="20"/>  Newbie  </td> <td>⚜️ Bookworm</td> <td>🔇 
+Introspection </td>
+  </tr>
+</table>
+<br></br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanjoethomas" alt="johanjoethomas" /></a> </p>
 
-- 🌱 I’m currently learning **front end engineer**
 
 - 📫 How to reach me **johanjoethomas1s@gmail.com**
 
-- ⚡ Fun fact **I speak four languages: English,Hindi,Tamil and Malayalam.**
 
+
+
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/johan thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johan thomas" height="30" width="40" /></a>
